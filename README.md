@@ -37,10 +37,24 @@ Por definir
 ### Requerimientos técnicos
 - Sitio responsivo
 - SEO optimizado
+  - Con buena sintaxis HTML
+  - Considerar téminos de búsqueda comunes en Google
+  - Buen etiquetado de imágenes y enlaces
 - Con bradcrumbs
+- Considerar aspectos de accesibilidad
 
 #### Colores
-Por definir,
+- #2d2d2d
+- #0a0a0a
+- #fff
+- #f9ae5c
+- #83581e
+- #5d6e97
+
+#### Tipografías
+  Google Fonts:
+  - Crete Round: Textos
+  - Raleway : Títulos, highlights
 
 ### Subpáginas propuestas
 - Home
@@ -69,3 +83,11 @@ Por definir,
     - Perfil de los creadores
 
 - FAQ
+
+### Webs "referenciales"
+- https://dod.com/en-US
+- https://www.jimdunlop.com/home.do
+- http://www.ibanez.com/products
+- https://www.zvex.com/products/
+- http://www.drscientist.ca/
+- https://www.strymon.net/
